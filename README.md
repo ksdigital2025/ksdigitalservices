@@ -390,11 +390,8 @@ footer {
 <body>
 
 <header>
-  <div class="logo-container">
 
-    <h1>KS DIGITAL SERVICES</h1>
-  </div>
-  
+   <h2>KS DIGITAL SERVICES</h2>
   <a class="home-btn" href="https://ksdigitalservice.pw/">
     <i class="fas fa-home"></i>
     Home Page
