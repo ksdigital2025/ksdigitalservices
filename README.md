@@ -123,8 +123,9 @@ h1::after {
   position: absolute;
   top: 20px;
   left: 20px;
-  background: rgba(255, 255, 255, 0.15);
-  color: white;
+  background: rgba(80, 217, 32, 0.8);
+  text-align: center;
+  color: black;
   padding: 0.7rem 1.5rem;
   border-radius: 50px;
   text-decoration: none;
@@ -339,6 +340,7 @@ footer {
     left: 0;
     margin-bottom: 1.5rem;
     display: inline-flex;
+    text-align: center;
   }
   
   .content-wrapper {
@@ -389,21 +391,16 @@ footer {
 </head>
 <body>
 
-<header>
 
-   <h2>KS DIGITAL SERVICES</h2>
-  <a class="home-btn" href="https://ksdigitalservice.pw/">
-    <i class="fas fa-home"></i>
-    Home Page
-  </a>
-</header>
 
 <main>
   <div class="content-wrapper">
-    <div class="services-intro">
-      <h2>Connect With Us</h2>
-      
-    </div>
+   <h2 style="text-align: center;">KS DIGITAL SERVICES</h2>
+
+  <a class="home-btn"  href="https://ksdigitalservice.pw/">
+    <i class="fas fa-home"></i>
+    Main Page
+  </a>
     
     <div class="buttons-grid">
       <!-- Call Button -->
