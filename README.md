@@ -277,7 +277,7 @@ footer {
   }
   
   h1 {
-    font-size: 14px;
+    font-size: 12px;
      text-align: left;
   }
   
@@ -291,10 +291,9 @@ footer {
   }
   
   .offerings-list li {
-    padding: 9px 10px 9px 20px;
+    padding: 9px 10px 9px 9px;
     font-size: 15px;
     text-align: left;
-    left: 5px;
   }
   
   .section-title {
