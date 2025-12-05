@@ -91,7 +91,7 @@ h1 {
   transition: all 0.2s;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   text-align: center;
-  font-size: 14px;
+  font-size: 22px;
   font-weight: 500;
 }
 
