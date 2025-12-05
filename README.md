@@ -43,7 +43,7 @@ body {
   text-align: left;
   margin-bottom: 15px;
   width: 100%;
-  padding: 0;
+  padding: 0 5px;
 }
 
 h2 {
@@ -180,13 +180,14 @@ h2 {
 }
 
 .offerings-list li {
-  padding: 10px 12px 10px 12px;
+  padding: 10px 15px;
   background: #f8f9fa;
   border-radius: 6px;
   font-size: 14px;
   color: #444;
   text-align: left;
   width: 100%;
+  margin-left: 0;
 }
 
 /* Left-aligned Contact Info */
@@ -282,15 +283,17 @@ footer {
     font-size: 18px;
   }
   
-  .offerings-list li {
-    font-size: 15px;
-    text-align: left;
-    padding-left: 12px;
-  }
-  
   .section-title {
     font-size: 18px;
     padding-left: 0;
+    margin-left: 0;
+  }
+  
+  .offerings-list li {
+    font-size: 15px;
+    text-align: left;
+    padding: 10px 15px;
+    margin-left: 0;
   }
   
   .main-page-btn {
@@ -317,14 +320,16 @@ footer {
     font-size: 18px;
   }
   
+  .section-title {
+    padding-left: 0;
+    margin-left: 0;
+  }
+  
   .offerings-list li {
     font-size: 12px;
     text-align: left;
-    padding-left: 12px;
-  }
-  
-  .section-title {
-    padding-left: 0;
+    padding: 10px 15px;
+    margin-left: 0;
   }
 }
 
