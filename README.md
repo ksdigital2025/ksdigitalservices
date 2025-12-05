@@ -277,7 +277,7 @@ footer {
   }
   
   h1 {
-    font-size: 24px;
+    font-size: 22px;
   }
   
   .button-row-1, .button-row-2 {
@@ -286,7 +286,7 @@ footer {
   
   .action-btn {
     padding: 10px 6px;
-    font-size: 13px;
+    font-size: 18px;
   }
   
   .offerings-list li {
